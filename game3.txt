@@ -3,5 +3,6 @@ Igor ima 0 pobjeda i 0 poraza!
 
 . o x
 . . .
-. . .
+. . x
+
 
