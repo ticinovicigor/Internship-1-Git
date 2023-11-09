@@ -1,5 +1,5 @@
-Lucija ima 0 pobjeda i 0 poraza!
-Igor ima 0 pobjeda i 0 poraza!
+Lucija ima 0 pobjeda i 3 poraza!
+Igor ima 3 pobjeda i 0 poraza!
 
 o o x
 . x .
