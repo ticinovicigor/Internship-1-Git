@@ -1,7 +1,8 @@
 Lucija ima 0 pobjeda i 0 poraza!
 Igor ima 0 pobjeda i 0 poraza!
 
+
 x . .
+o x .
 o . .
-. . .
 
